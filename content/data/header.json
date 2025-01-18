@@ -23,7 +23,7 @@
             "type": "Link",
             "label": "BLOG",
             "altText": "",
-            "url": "/blolg",
+            "url": "/blog",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
