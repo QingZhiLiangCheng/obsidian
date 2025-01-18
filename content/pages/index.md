@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: QingZhiLiangCheng's home
+      text: WelcomeQingZhiLiangCheng's home
       color: text-dark
       type: TitleBlock
       styles:
