@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: QingZhiLiangCheng's home
-      color: text-dark
+      color: text-primary
       type: TitleBlock
       styles:
         self:
