@@ -21,7 +21,7 @@
     "secondaryLinks": [
         {
             "type": "Link",
-            "label": "See Tutorials",
+            "label": "BLOG",
             "altText": "",
             "url": "/blolg",
             "showIcon": false,
