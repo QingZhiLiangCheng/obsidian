@@ -15,8 +15,7 @@
                 ]
             }
         },
-        "type": "ImageBlock",
-        "url": "/images/contenful-logo.svg"
+        "type": "ImageBlock"
     },
     "primaryLinks": [],
     "secondaryLinks": [],
